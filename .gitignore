@@ -1,0 +1,6 @@
+g1.pickle
+g2.pickle
+graph_0.pickle
+graph_1.pickle
+*.tmp
+*.pickle
